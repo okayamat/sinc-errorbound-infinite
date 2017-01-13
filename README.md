@@ -36,7 +36,7 @@ Compiler: Apple LLVM version 6.0
  New York, 1993.
 2. K. Tanaka, M. Sugihara, K. Murota:
  Function classes for successful DE-Sinc approximations, Mathematics of
- Computation, Vol 78 (2009), pp. 1553--1571.
+ Computation, Vol. 78 (2009), pp. 1553--1571.
 3. T. Okayama:
  Error estimates with explicit constants for the Sinc approximation over
  infinite intervals, arXiv:1610.06685 [math.NA].
