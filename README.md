@@ -5,8 +5,8 @@ Sinc approximation with its rigorous error bound over infinite interval
 These programs approximate the following four functions:
 
 (1) f(t) = sqrt(1 + tanh^2(arcsinh t)) / (1 + t^2)  
-(2) f(t) = sqrt(t) sqrt(1 + tanh^2(log t)) / (1 + t^2)
-(3) f(t) = t^(pi/4) exp(-t)
+(2) f(t) = sqrt(t) sqrt(1 + tanh^2(log t)) / (1 + t^2)  
+(3) f(t) = t^(pi/4) exp(-t)  
 (4) f(t) = sqrt(cos(3 arcsinh t) + cosh(pi)) / (1 + t^2)
 
 Approximation is done by means of the Sinc approximation combined with
@@ -15,7 +15,7 @@ maps given by Stenger [1], whereas other programs use the so-called
 double-exponential transformation described in [2, 3].
 
 Each program investigates maximum approximation error among selected
-sampling points increasing N as N = 2, 7, 12, 17, 22, ..., and outputs
+sampling points increasing N as N = 2, 7, 12, 17, 22, ..., then outputs
 N, maximum error, and its error bound. Note that error bounds by
 OLD_DE_Sinc_3.c and DE_Sinc_4.c are not correct (just for reference).
 
@@ -25,10 +25,10 @@ Gnuplot programs and created eps graphs are also stored in the directory.
 
 computation environment:
 
-OS: Mac OS X 10.9
-CPU: 1.7 GHz Intel Core i7
-Memory: 8 GB 1600 MHz DDR3
-Compiler: Apple LLVM version 6.0
+OS: Mac OS X 10.9  
+CPU: 1.7 GHz Intel Core i7  
+Memory: 8 GB 1600 MHz DDR3  
+Compiler: Apple LLVM version 6.0  
 
 ## References
 1. F. Stenger:
