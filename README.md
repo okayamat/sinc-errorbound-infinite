@@ -10,9 +10,9 @@ These programs approximate the following four functions:
 (4) f(t) = sqrt(cos(3 arcsinh t) + cosh(pi)) / (1 + t^2)
 
 Approximation is done by means of the Sinc approximation combined with
-a proper conformal map. Programs that begin with SE_Sinc use conformal
-maps given by Stenger [1], whereas other programs use the so-called
-double-exponential transformation described in [2, 3].
+a proper variable transformation. Programs that begin with SE_Sinc use
+variable transformations given by Stenger [1], whereas other programs
+use the so-called double-exponential transformation described in [2, 3].
 
 Each program investigates maximum approximation error among selected
 sampling points increasing N as N = 2, 7, 12, 17, 22, ..., then outputs
