@@ -39,4 +39,5 @@ Compiler: Apple LLVM version 6.0
  Computation, Vol. 78 (2009), pp. 1553--1571.
 3. T. Okayama:
  Error estimates with explicit constants for the Sinc approximation over
- infinite intervals, Applied Mathematics and Computation, to appear.
+ infinite intervals, Applied Mathematics and Computation, Vol. 319 (2018),
+ pp. 125--137.
