@@ -11,7 +11,7 @@ These programs approximate the following four functions:
 
 Approximation is done by means of the Sinc approximation combined with
 a proper variable transformation. Programs that begin with SE_Sinc use
-variable transformations given by Stenger [1], whereas other programs
+variable transformations employed by Stenger [1], whereas other programs
 use the so-called double-exponential transformation described in [2, 3].
 
 Each program investigates maximum approximation error among selected
